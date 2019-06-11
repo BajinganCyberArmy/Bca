@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 #Author B4J1ⁿ64ⁿ T³RH0RM⁴T
 #thanks BCA
-#Ilove You Thini , Miss You
+#Ilove You Thini Miss You
 
 clear
 blue='\033[34;1m'
